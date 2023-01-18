@@ -1,7 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-(GitHub Pages)[insert your hyperlink here]
+(GitHub Pages)[file:///C:/Users/julia/OneDrive/Desktop/DS4200/ic-02-jwsavini/index.html]
 
 ## Purpose
 
